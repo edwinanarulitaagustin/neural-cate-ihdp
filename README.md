@@ -1,2 +1,8 @@
 # neural-cate-ihdp
-Neural treatment-effect estimators (T-learner, TARNet, Dragonnet) on the IHDP benchmark, in PyTorch
+
+Learning to estimate individual treatment effects (ITE) with neural networks in PyTorch,
+tested on the semi-synthetic IHDP benchmark.
+
+Models: naive baseline, ridge T-learner, T-learner, TARNet, Dragonnet.
+
+Status: work in progress.
